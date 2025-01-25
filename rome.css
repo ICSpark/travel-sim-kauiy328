@@ -1,0 +1,25 @@
+#container {
+    position: fixed;
+    top: 100px;
+    bottom: 100px;
+
+
+}
+
+.portals {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+
+body{
+    background-image: url("assets/rome.jpeg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+}
+
+#header {
+    color: aliceblue;
+    text-align: center;
+}

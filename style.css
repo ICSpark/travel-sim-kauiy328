@@ -1,0 +1,23 @@
+#container {
+    position: fixed;
+    top: 100px;
+    bottom: 100px;
+    left: 225px;
+
+
+}
+
+.portals {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+
+body{
+    background-image: url("assets/portal-background.jpeg");
+}
+
+#header {
+    color: aliceblue;
+    text-align: center;
+}
